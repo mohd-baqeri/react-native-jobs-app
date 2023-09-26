@@ -12,3 +12,6 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+Credit for this project goes to:
+[jsmastery.pro](https://www.jsmastery.pro/)https://www.jsmastery.pro/
