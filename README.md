@@ -15,4 +15,5 @@ npx create-expo-app -e with-router
 
 Credit for this project goes to:
 https://www.jsmastery.pro/
-Because I learned from them.
+
+Because I learned this project from them.
